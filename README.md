@@ -1,13 +1,7 @@
-# Cybersecurity Portfolio – [Your Name]
+# CaptchaVerify
 
 ## About
-I am an aspiring cybersecurity analyst building hands-on experience
-through self-directed labs focused on system fundamentals, security
-logging, threat detection, and incident analysis.
-
-This portfolio documents my progression from foundational concepts to
-practical security operations work, with an emphasis on blue team
-(SOC analyst) skills.
+I look at cybersecurity from both sides of the coin. Without attackers, there would be no need for security parameters. Both sides pour serious time, skill and resources into their projects, especially when valuble systems or data are at stake. It's always compelling watching an attacker attempt to bypass well-configured defence lines, and then trace all the steps they took to do it.
 
 ## Portfolio Structure
 This repository is organized to reflect a structured learning and
