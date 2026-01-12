@@ -6,7 +6,7 @@ into their projects, especially when valuble systems or data are at stake. It's 
 and then trace all the steps they took to do it.
 
 On the other hand, defending systems is also thrilling and is what pushed me towards learning more about cybersecurity. The feeling you get detecting a suspicious login
-or stop a brute-force login attempt before it causes harm? That feeling is unmatched and sits with you for the rest of your carreer after countless hours setting up 
+or stop a brute-force login attempt before it causes harm? That feeling is unmatched and sits with you for the rest of your career after countless hours setting up 
 monitoring, analyzing logs, and tuning alerts. On the flip side, working offensively gives you constant puzzles: new vunerabilities to dissect, attack patterns to 
 simulate, and exploits to understand. The ongoing cat-and-mouse between attackers and defenders intimidates people, but that's exactly what keeps me engaged. There's
 always something to uncover, something to defend, and the challange never ends.
